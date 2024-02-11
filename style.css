@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    text-decoration: line-through;
+    text-shadow: 3px 3px 2px black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+}
+
+div {
+    height: 2800px;
+    padding: 18px;
+    border: 10px solid black;
+    text-align: center;
+    text-decoration: dotted;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    word-spacing: 2px;
+    line-break: normal;
+}
+
+* {
+    background-color: lightcoral
+}
